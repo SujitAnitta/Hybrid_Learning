@@ -1,0 +1,15 @@
+git pull
+
+
+git add .
+
+git commit -m "commit message"
+
+
+git push -m origin main
+
+
+
+
+git url:
+https://github.com/SujitAnitta/Hybrid_Learning
